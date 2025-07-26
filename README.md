@@ -24,6 +24,7 @@ With thousands of passenger reviews and feedback coming in, it becomes crucial f
 ---
 
 ## 📂 Dataset Description
+https://github.com/sweta42/IndiGo-Passenger-Referral-Prediction-using-Sentiment-Service-Reviews/blob/main/dataset.csv
 
 - Source: Provided in AlmaBetter Capstone Module
 - Size: ~7,000 records
@@ -118,9 +119,8 @@ Models trained using both numerical and text data:
 ## 🧑‍💻 Author
 
 **Sweta Kumari**  
-🎓 Data Science Enthusiast | AlmaBetter Capstone Contributor  
-🔗 [LinkedIn](https://linkedin.com/in/your-link)  
-💻 [GitHub](https://github.com/your-profile)
+🎓 Data Science Enthusiast | AlmaBetter Capstone Contributor    
+💻 [GitHub]([https://github.com/sweta42)
 
 ---
 
